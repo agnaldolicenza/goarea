@@ -1,4 +1,4 @@
-package goarea // mesmo nome da pasta que está no src
+package area // mesmo nome da pasta que está no src
 import "math"
 
 // Pi é uma proporção numérica definida pela relação entre
